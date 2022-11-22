@@ -1,0 +1,35 @@
+{
+  "name" : "TblDictionaryType",
+  "originTableName" : "tbl_dictionary_type",
+  "comment" : "字典类型表",
+  "fullColumn" : [ {
+    "name" : "code",
+    "comment" : null,
+    "type" : null,
+    "shortType" : null,
+    "ktShortType" : "String",
+    "custom" : false,
+    "ext" : { }
+  }, {
+    "name" : "name",
+    "comment" : null,
+    "type" : null,
+    "shortType" : null,
+    "ktShortType" : "String",
+    "custom" : false,
+    "ext" : { }
+  }, {
+    "name" : "description",
+    "comment" : null,
+    "type" : null,
+    "shortType" : null,
+    "ktShortType" : "String",
+    "custom" : false,
+    "ext" : { }
+  } ],
+  "pkColumn" : null,
+  "otherColumn" : null,
+  "savePackageName" : "com.bjpowernode",
+  "savePath" : "./src/main/java/com/bjpowernode",
+  "saveModelName" : "crm"
+}
