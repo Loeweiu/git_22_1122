@@ -20,6 +20,8 @@ public class TblDictionaryType implements Serializable {
     * 例如：sex、orgType
     */
     private String code;
+
+	private int age;
     /**
     * 例如：性别、机构类型
     */
